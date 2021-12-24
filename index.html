@@ -37,6 +37,13 @@
 // 下载XCache...
 git clone https://github.com/space-longan/xcache.git
 cd xcache
+
+set CC="gcc -m32"
+set CXX="g++ -m32"
+cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release
+cmake --build .
+
+cmake --build . --target xcache
 </pre>
         </div>
 
