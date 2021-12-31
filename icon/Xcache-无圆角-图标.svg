@@ -1,0 +1,24 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_8">
+   <stop offset="0" stop-opacity="0.98828" stop-color="#ff8212"/>
+   <stop stop-opacity="0.99609" offset="1" stop-color="#ff5012"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1026" height="1026" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_2" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="url(#svg_8)" stroke="#000" stroke-width="0" width="1024" height="1024" id="svg_1"/>
+  <rect stroke="#000" id="svg_10" height="800" width="200" y="112" x="412" stroke-width="0" fill="#ffffff" transform="rotate(45 512 512)"/>
+  <rect fill="#323232" stroke-width="0" x="311.99999" y="312" width="400" height="400" id="svg_4" stroke="#000" transform="rotate(45 512 512)"/>
+  <rect id="svg_9" height="800" width="200" y="112" x="412" stroke-width="0" fill="#fff" transform="rotate(-45 512 512)"/>
+  <path fill="#8ff925" stroke="#000" stroke-width="0" opacity="NaN" d="m311.77575,160.08605" id="svg_13"/>
+ </g>
+</svg>
